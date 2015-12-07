@@ -1,6 +1,6 @@
 // IDEA year['2015'].month['03'].day['15'].hour['1600']
-// PROBLEM must run as sudo!!!
-// // have init function to take care of such bs
+// PROBLEM must run as su!!!
+
 var fs = require('fs')
 var path = require('path')
 
