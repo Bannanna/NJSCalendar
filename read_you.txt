@@ -1,0 +1,22 @@
+
+**year['2015'].month['03'].day['15'].hour['1600']**
+
+directories are symbolic months in a symbolic year directory. Days are .txt
+files within months. The application will parse these directories and display
+the results in an html rendered page. A command line interface is provided for quickly
+editing the <01,...,30>.txt files. A web application is provided for graphical
+display of the days. Nice and simple.
+
+-~-COMMANDS-~-
+
+node vcal edit year['2015'].month['03'].day['15'].hour['1600']
+
+vcal edit --today
+vcal edit -t
+vcal edit -y 2015 -m 03 -d 15 -h 1600
+
+
+vcal setVCALPATH <path>
+vcal echoVCALPATH
+
+-~-ENDCOMMANDS-~-

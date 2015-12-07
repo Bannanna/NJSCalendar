@@ -1,0 +1,17 @@
+{
+  "name": "bashcalendar",
+  "version": "1.0.0",
+  "description": "See read_you.txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar",
+    "simple",
+    "bash",
+    "node"
+  ],
+  "author": "DonClaudio",
+  "license": "ISC"
+}
