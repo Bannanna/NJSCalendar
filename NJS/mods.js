@@ -4,6 +4,6 @@ module.exports = {
   },
   normpath: function(paths) {
     console.log(typeof paths)
-    console.log('easier than path.normalize, but just ejemplo')
+    console.log('easier than path.normalize, but just example')
   }
 }
